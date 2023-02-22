@@ -23,5 +23,3 @@ const resultPhrase = "Your result is: "
 
 const result = add(number1, number2, printResult, resultPhrase)
 // console.log(result)
-
-//########### OBJECT TYPES #############
